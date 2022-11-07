@@ -1,5 +1,12 @@
 # Universal Message Spammer
   This is the first Version of the Spam Bot for Chat Apps. In this Version you can type a message and spam it to the selected chat how often you want. The cool thing about this Bot is that the UI is binded to the Whatsapp Web UI. Also it is extremely easy to execute using Python.
+  
+# Currently Supported Chat Apps
+  *Whatsapp
+ 
+ # In Development
+  *Snapchat
+  *Instagram
 
 ## :warning: VERY IMPORTANT:warning:
 This application is for private or educational purposes only. Do not use it on other people without their permission.
