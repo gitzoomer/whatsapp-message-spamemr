@@ -5,7 +5,7 @@
   * Whatsapp
  
  # In Development
-  * Snapchat \
+  * Snapchat 
   * Instagram
 
 ## :warning: VERY IMPORTANT:warning:
