@@ -1,0 +1,7 @@
+colorama
+webbrowser
+ctypes
+pyautogui
+os 
+time
+pynput.keyboard
